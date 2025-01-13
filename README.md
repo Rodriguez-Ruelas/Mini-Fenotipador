@@ -10,3 +10,8 @@ El objetivo principal es optimizar el monitoreo en sistemas agrícolas mediante 
 ### Diagrama
 
 ![DiagramaFenotipador](https://github.com/Rodriguez-Ruelas/Mini-Fenotipador/blob/main/Imagenes_README/DiagramaFenotipador.png)
+
+---
+### Fenotipado
+
+![Principal](https://github.com/Rodriguez-Ruelas/Mini-Fenotipador/blob/main/Imagenes_README/Principal.png)
