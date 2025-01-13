@@ -21,3 +21,10 @@ El objetivo principal es optimizar el monitoreo en sistemas agrícolas mediante 
 ### Diagrama de flujo
 
 ![Diagrama de flujo](https://github.com/Rodriguez-Ruelas/Mini-Fenotipador/blob/main/Imagenes_README/Diagrama%20de%20flujo.png)
+
+
+---
+
+### Fenotipado
+
+![Fenotipado](https://github.com/Rodriguez-Ruelas/Mini-Fenotipador/blob/main/Imagenes_README/Fenotipado.png)
