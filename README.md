@@ -9,4 +9,4 @@ El objetivo principal es optimizar el monitoreo en sistemas agrícolas mediante 
 ---
 ### Hardaware
 
-![Hardware](https://github.com/Rodriguez-Ruelas/Mini-Fenotipador/blob/main/Imagenes_README/Hardware%20Fenotipador.png)
+![Diagrama](https://github.com/Rodriguez-Ruelas/Mini-Fenotipador/blob/main/Imagenes_README/DiagramaFenotipador.png)
