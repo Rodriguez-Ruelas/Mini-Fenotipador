@@ -7,3 +7,6 @@ Además, el proyecto contempla la **integración de un sensor LIDAR**, lo que pe
 El objetivo principal es optimizar el monitoreo en sistemas agrícolas mediante una herramienta accesible y eficiente, que proporciona datos de alta calidad para el análisis de los cultivos y mejora en los rendimientos agrícolas.
 
 ---
+### Hardaware
+
+![Hardware](https://github.com/Rodriguez-Ruelas/Mini-Fenotipador/blob/main/Imagenes_README/Hardware%20Fenotipador.png)
